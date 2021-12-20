@@ -4,7 +4,8 @@ public class JavaCode01 {
 
 	public static void main(String[] args) {
 
-		// Java �ڵ� �׽�Ʈ
+		// Java 코딩 테스트
+		
 	}
 
 }
