@@ -1,7 +1,7 @@
 package java_study;
 
 public class Java_Study14 {
-
+// 반복문 - for문 구구단
 	public static void main(String[] args) {
 
 		int dan;
