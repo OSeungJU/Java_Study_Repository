@@ -1,6 +1,6 @@
 package java_study;
 
-public class Java_study03 {
+public class Java_Study03 {
 
 	public static void main(String[] args) {
 
