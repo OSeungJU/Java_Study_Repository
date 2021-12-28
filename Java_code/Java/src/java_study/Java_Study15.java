@@ -1,7 +1,7 @@
 package java_study;
 
 public class Java_Study15 {
-// 반복문 - while문 구구단
+// 반복문 - while문 구구
 	public static void main(String[] args) {
 
 		int dan = 2;
