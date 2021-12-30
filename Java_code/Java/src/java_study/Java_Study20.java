@@ -12,6 +12,7 @@ public class Java_Study20 {
 		}
 		
 	}
-//위 코드에는 Java_Study20 클래스 안에 showStudentInfo() 메서드를 추가했다.
-//이 메서드는 학생 이름과 주소를 출력하는 기능이다
 
+//위 코드를 보면 Java_Study20클래스 안에 showStudentInfo()라는 메서드를 추가했다.
+//이 메서드는 학생 이름과 주소를 출력하는 기능이 있다.
+ 
