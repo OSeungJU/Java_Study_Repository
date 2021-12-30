@@ -14,6 +14,7 @@ public class Class_Student {
 		//    맴버 변수;
 		//    메서드
 		// }
+		//클래스 이름 앞에 있는 public 예약어는 '접근 제어자'라고 한다
 	}
 
 }
