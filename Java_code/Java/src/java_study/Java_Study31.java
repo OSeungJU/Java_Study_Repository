@@ -4,7 +4,9 @@ public class Java_Study31 {
 /* Java_Study20에 대한 test 코드 */
 	public static void main(String[] args) {
 
-		Java_Study20 studentLee = new Java_Study20(100, "이순신");
+		Java_Study20 studentLee = new Java_Study20();
+		studentLee.studentName = "이순신";
+		studentLee.studentID = 100;
 		studentLee.address = "서울시 영등포구 여의도동";
 
 		Java_Study20 studentKim = new Java_Study20();
