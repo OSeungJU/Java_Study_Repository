@@ -11,7 +11,7 @@ public class Java_Study28 {
 	}
 	
 	public static void min(String[] args) {
-		Java_Study28 studentAhn = new Java_Study28 ();
+		Java_Study25 studentAhn = new Java_Study25 ();
 		studentAhn.studentName = "안연수";
 		
 		System.out.println(studentAhn.studentName);

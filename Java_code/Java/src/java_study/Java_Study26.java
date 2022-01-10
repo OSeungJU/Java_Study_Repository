@@ -1,6 +1,7 @@
 package java_study;
 
 public class Java_Study26 {
+	
 	int studentID;
 	String studentName;
 	int grade;
